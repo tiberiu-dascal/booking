@@ -1,3 +1,4 @@
 .env
 .venv/
 calendar_debug.*
+__pycache__
